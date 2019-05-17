@@ -1,0 +1,46 @@
+
+//------------OTHER ART (LPC Compatible)
+
+-> "Animated Coins" by Clint Bellanger (for Liberated Pixel Art): https://opengameart.org/content/animated-coins
+
+/
+	License: CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0
+	
+-> "UI Elements" by Buch: https://opengameart.org/content/ui-elements
+	License: CC-BY 3.0 / GPL 3.0
+	User page: http://opengameart.org/users/buch
+
+-> "Farming Tilesets, Magic Animations and UI Elements" by Daniel Eddeland (opengameart user daneeklu): https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+	License: CC-BY-SA 3.0 / GPL 3.0
+
+-> "[LPC] Cats and Dogs" by bluecarrot16: https://opengameart.org/content/lpc-cats-and-dogs
+	License: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0
+
+-> "LPC Thatched-roof Cottage" by bluecarrot16: https://opengameart.org/content/lpc-thatched-roof-cottage
+ 	License: CC-BY-SA 3.0 / GPL 3.0
+	Based on: "LPC Base Assets" by Lanea Zimmerman (AKA Sharm) and Daniel Armstrong (AKA HughSpectrum). License: CC-BY-SA 3.0 / GPL 3.0+. http://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles "LPC art entry" by Casper Nilsson. License: CC-BY-SA 3.0 / GPL 3.0+. http://opengameart.org/content/lpc-cnilsson
+
+-> "Template-Half body" by MarinaNT: https://marinant.deviantart.com/art/UPDATE-Template-Half-body-196285342
+	License: CC-BY 3.0
+
+//------------Universal LPC Spritesheet Character Generator (Tool)
+
+-> See link: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
+	Github: https://github.com/jrconway3/Universal-LPC-spritesheet
+	See "Contributors" and AUTHORS.txt file for attribution.
+
+//------------MUSIC
+
+-> "Happy Tune" by syncopika: https://opengameart.org/content/happy-tune
+	License: CC-BY
+
+-> "Medieval Town" by syncopika: https://opengameart.org/content/medieval-town
+	License: CC-BY
+
+//------------LICENSES
+
+CC-BY: 		https://creativecommons.org/licenses/by/3.0/
+CC-BY-SA: 	https://creativecommons.org/licenses/by-sa/3.0/
+GPL 3.0: 	http://www.gnu.org/licenses/gpl-3.0.html
+GPL 2.0: 	http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+OGA-BY 3.0: 	https://opengameart.org/content/oga-by-30-faq

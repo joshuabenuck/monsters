@@ -14,8 +14,11 @@ spr_base = spr_base_male_skel;
 spr_arms = spr_torso_male_plate_arms;
 spr_torso = spr_torso_male_plate_chest;
 spr_hair = spr_hair_male_plain_blue;
-spr_feet = spr_feet_male_shoes_black;
+spr_legs = spr_legs_male_pants_teal;
+spr_feet = -1; //spr_feet_male_shoes_black;
 
 spr_parts = [
-	spr_base, spr_arms, spr_torso, spr_hair, spr_feet
+	spr_base, spr_legs, spr_arms, spr_torso, spr_hair, spr_feet
 ];
+
+// event_perform
